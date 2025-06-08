@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a Student at the Egypt-Japan University of Science and Technology
+- 🎓 **Student** passionate about coding, technology, and continuous learning.
+- 💡 Always eager to explore new concepts and solve real-world problems through programming.
 
 
 ## 🌐 Socials:
