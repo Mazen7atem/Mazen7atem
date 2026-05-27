@@ -42,18 +42,14 @@
 ---
 
 ## 📊 GitHub Analytics & Insights:
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Mazen7atem&theme=aura_dark&show_icons=true&hide_border=false&count_private=true" alt="Mazen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Mazen7atem&theme=aura_dark&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazen7atem&theme=aura_dark&hide_border=false" alt="GitHub Streak" width="97%" />
-</p>
+[![Mazen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mazen7atem&theme=aura_dark&show_icons=true&hide_border=false&count_private=true)](https://github.com/Mazen7atem)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazen7atem&theme=aura_dark&hide_border=false&layout=compact)](https://github.com/Mazen7atem)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mazen7atem&theme=aura_dark&hide_border=false)](https://github.com/Mazen7atem)
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Mazen7atem&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mazen7atem&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
 </p>
