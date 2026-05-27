@@ -24,12 +24,14 @@
 ### 🔧 Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 💼 Core Qualifications & Milestones:
 * **DEPI Technical Scholarship:** Intensive track specialized in Advanced Front-End Development.
 * **ITI Foundational Graduate:** Solidified core web engineering and responsive architecture fundamentals.
+
 
 ---
 
@@ -39,19 +41,14 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Analytics & Insights:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mazen7atem&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" alt="Mazen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazen7atem&theme=aura_dark&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Mazen7atem&theme=aura_dark&show_icons=true&hide_border=false&count_private=true" alt="Mazen's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Mazen7atem&theme=aura_dark&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mazen7atem&theme=aura_dark&hide_border=false" alt="GitHub Streak" width="97%" />
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mazen7atem&limit=5&theme=aura_dark&combine_all_yearly_contributions=true" alt="Contributor Stats" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazen7atem&theme=aura_dark&hide_border=false" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
